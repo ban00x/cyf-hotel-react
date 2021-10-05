@@ -24,3 +24,42 @@ body {
 .search-row input {
   margin-right: 10px;
 }
+.logo-img {
+  width: 40px;
+  margin-right: 5px;
+}
+.city-name {
+  text-align: center;
+}
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.tourists-info-cards {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.highlighter {
+  background-color: olive;
+}
+.restaurant-component {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.restaurant-orders {
+  display: flex;
+  gap: 30px;
+}
+.restaurant-orders li {
+  margin: 20px 0;
+  list-style: none;
+}
+.flexDiv {
+  display: flex;
+}
